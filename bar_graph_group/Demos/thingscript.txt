@@ -1,0 +1,33 @@
+Maria:
+Hello, everyone. I'm [name] from the bar graph group and this is [names], here to demonstrate our work.
+
+Charlize:
+Whilst we have set defaults for most of the settings, the user has a lot of options to change settings. Let's start with the time interval. 
+Basically you just put in the start and end times to sample the data across - for the purposes of this demonstration we will set the times to 5 and 10.
+As you can see this bar graph, which was previously displaying data from a range of time periods, is now displaying data only from between 5 and 10 milliseconds.
+
+Mukta: 
+We have also the option to select which unit the user wants displayed, but the code for this is still in development. 
+
+We've given the option to change the colours shown on the graph in order to increase accessibility and make our GUI colour blindness friendly. According to our research,
+orange and blue are the most accessible colours for those with red-green colour blindness. 
+
+
+
+
+Isabelle:
+Moving to the next page, the data can be loaded in from either csv files or as live data from the MQTT broker. If we now look at the calibration settings over here, they include the 
+synchrotron extraction energy (defaulted to 800 MeV) and the tolerance limits for the Beam Loss Monitors - generally referred to as BLMs in our interface. The defaults for these vary 
+from BLM to BLM but a BLM can be easily selected and the limits modified in this menu. 
+
+Maria:
+These limits define when the beam loss is considered a problem and when it is within normal parameters.
+On this graph the limits are in red, the loss in green and if any losses are over the limit the bar turns red. This allows users to easily locate where the loss is occurring and to then 
+respond to issues faster thanks to this early detection.
+
+Maria:
+This has been a brief overview and explanation of our GUI- I hope we have given you all the tools you need and we're open to suggestions and questions!
+
+Thank you.
+
+ 

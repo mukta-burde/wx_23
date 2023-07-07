@@ -1,0 +1,7 @@
+- Logarithmic scale
+- set axis (not auto scaling)
+- More explicit colour blind mode
+- ability to save data
+- speed up to 50Hz (because we claimed that)
+
+- They liked the default tolerance stuff
